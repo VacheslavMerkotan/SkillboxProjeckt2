@@ -26,6 +26,10 @@ class BankAccountTest{
             HisAccount.ballance = 8.40;
 
             System.out.println(MyAccount.name);
+            System.out.println(MyAccount.name);
+
+
+
 
 
 
