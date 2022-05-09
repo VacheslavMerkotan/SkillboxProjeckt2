@@ -27,7 +27,8 @@ class BankAccountTest{
 
             System.out.println(MyAccount.name);
             System.out.println(MyAccount.name);
-            System.out.println(MyAccount.name);
+
+
 
 
 
