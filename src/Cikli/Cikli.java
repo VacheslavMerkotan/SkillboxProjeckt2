@@ -22,6 +22,7 @@ public class Cikli {
             System.out.println();
             System.out.println();
             System.out.println();
+            System.out.println();
         }
 
     }
