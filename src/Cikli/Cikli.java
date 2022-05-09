@@ -20,6 +20,8 @@ public class Cikli {
                 System.out.print("вы можете балотироватья в президенты РФ");
             }
             System.out.println();
+            System.out.println();
+            System.out.println();
         }
 
     }
