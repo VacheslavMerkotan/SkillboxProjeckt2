@@ -40,9 +40,12 @@ class StudentTest{
         s3.SrednyaEkonomika = 89.25;
         s3.SrednyaInostranniy = 40.28;
 
-        System.out.println("Общий средний балл - " + s1.Name + " " + s1.SeName + " = "  + (s1.SrednyaMatematika + s1.SrednyaEkonomika + s1.SrednyaInostranniy) / 3);
-        System.out.println("Общий средний балл - "  + s2.Name + " " + s2.SeName + " = "  + (s2.SrednyaMatematika + s2.SrednyaEkonomika + s2.SrednyaInostranniy) / 3);
-        System.out.println("Общий средний балл - "  + s3.Name + " " + s3.SeName + " = "  +  (s3.SrednyaMatematika + s3.SrednyaEkonomika + s3.SrednyaInostranniy) / 3);
+        System.out.println("Общий средний балл - " + s1.Name + " " + s1.SeName + " = "
+                + (s1.SrednyaMatematika + s1.SrednyaEkonomika + s1.SrednyaInostranniy) / 3);
+        System.out.println("Общий средний балл - "  + s2.Name + " " + s2.SeName + " = "
+                + (s2.SrednyaMatematika + s2.SrednyaEkonomika + s2.SrednyaInostranniy) / 3);
+        System.out.println("Общий средний балл - "  + s3.Name + " " + s3.SeName + " = "
+                +  (s3.SrednyaMatematika + s3.SrednyaEkonomika + s3.SrednyaInostranniy) / 3);
 
 
 
